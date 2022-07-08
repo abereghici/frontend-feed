@@ -19,6 +19,7 @@ Below is a collection of useful blogs and sites related to frontend that I found
 - [Khalil Stemmler](https://khalilstemmler.com/)
 - [Lea Verou](https://lea.verou.me/)
 - [Lee Robinson](https://leerob.io/blog)
+- [Michelle Barker](https://css-irl.info/)
 - [Nicolás Bevacqua](https://ponyfoo.com/)
 - [Philip Walton](https://philipwalton.com/)
 - [Sam Thorogood](https://whistlr.info/archive/)
