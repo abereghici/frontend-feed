@@ -42,5 +42,6 @@ Below is a collection of useful blogs and sites related to frontend that I found
 - [Javascript Weekly](https://javascriptweekly.com/)
 - [CSS Weekly](https://css-weekly.com/archives/)
 - [Frontend Focus](https://frontendfoc.us/issues)
+- [Fresh Frontend Links](https://medium.com/@frontender-ua)
 - [Bytes.dev](https://bytes.dev/archives)
 - [React Newsletter](https://reactnewsletter.com/issues)
