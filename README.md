@@ -37,4 +37,10 @@ Below is a collection of useful blogs and sites related to frontend that I found
 - [Netflix TechBlog](https://netflixtechblog.com/)
 - [Instagram Engineering](https://instagram-engineering.com/)
 
-
+## Newsletters
+- [Node Weekly](https://nodeweekly.com/issues)
+- [Javascript Weekly](https://javascriptweekly.com/)
+- [CSS Weekly](https://css-weekly.com/archives/)
+- [Frontend Focus](https://frontendfoc.us/issues)
+- [Bytes.dev](https://bytes.dev/archives)
+- [React Newsletter](https://reactnewsletter.com/issues)
